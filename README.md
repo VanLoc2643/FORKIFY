@@ -88,7 +88,7 @@ npm install
 3. Run the application:
 
 ```bash
-cd final
+cd starter
 npm start
 ```
 
